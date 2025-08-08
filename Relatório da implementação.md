@@ -30,7 +30,7 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 - [Manuais de configuração do AWS EC2] - ver: manual_ec2.md
 - [Documentação do Amazon S3] - ver: documentacao_s3.md
 - [Guia de uso do AWS Lambda] - ver: guia_lambda.md
-- [Planilhas de estimativa de gastos] - ver: planilha_gastos.md
+- [Planilha de Projeção de Custos AWS] - ver: planilha_gastos.md
 
 **Assinatura do Responsável pelo Projeto:**
 
